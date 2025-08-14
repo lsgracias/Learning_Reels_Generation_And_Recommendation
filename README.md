@@ -1,2 +1,2 @@
-# Learning_Reel_Recommendation
+# Learning_Reels_Generation_And_Recommendation
 NEXIS_S25_Social_Media
